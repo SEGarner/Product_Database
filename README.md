@@ -1,1 +1,1 @@
-# Product_Database
+# Database of Amazon products. Files of SQL queries. 
